@@ -1,3 +1,4 @@
 # pyprog
-repository avec tout mes exercices python
-fait avec vscode
+Python exo/tutorial
+using VSCODE
+anaconda
